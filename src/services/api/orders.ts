@@ -9,7 +9,6 @@ class Orders {
             status,
             country,
             loan_number,
-            org_wo_number,
             state,
             zip_code,
             address
@@ -22,7 +21,6 @@ class Orders {
                 status,
                 country,
                 loan_number,
-                org_wo_number,
                 state,
                 zip_code,
                 address
